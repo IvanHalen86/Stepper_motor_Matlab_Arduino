@@ -8,5 +8,6 @@ https://www.youtube.com/watch?v=kr21ypVgb1M&t=198s
 
 Once you download that, you can watch this video on youtube which explains how to use an Arduino stepper motor with matlab
 
+https://youtu.be/b8_gBcoVW5Y
 
-The codes are in this repository
+The codes are in this repository. 
