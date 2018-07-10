@@ -1,8 +1,8 @@
 # Stepper_motor_Matlab_Arduino
-In order to use these codes yiu have first to download the Matlab Arduino communication in my previous repository. 
+In order to use these codes you have first to download the Matlab Arduino communication in my previous repository. 
 
-This is the video that explains the first step you have to do in order to make Matlab to communicate with Arduino. In the link below
-the video you will find the link for the codes
+This is the video that explains the first steps you have to do in order to make Matlab to communicate with Arduino. 
+In the link below the video you will find the link for the codes
 
 https://www.youtube.com/watch?v=kr21ypVgb1M&t=198s
 
