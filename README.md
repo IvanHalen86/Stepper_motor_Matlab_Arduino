@@ -1,7 +1,7 @@
 # Stepper_motor_Matlab_Arduino
-In order to use these codes you have first to download the Matlab Arduino communication codes. 
+In order to use these matlab codes you have first to run the code "Arduino_Matlab_serial.ino" 
 
-This is the video that explains the first steps you have to do in order to make Matlab to communicate with Arduino. 
+This is the video that explains how this codes works
 
 https://www.youtube.com/watch?v=kr21ypVgb1M&t=198s
 
